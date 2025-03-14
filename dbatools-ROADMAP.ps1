@@ -1,5 +1,5 @@
 <#------------------dbatools-------------------------------------#>
-
+# --- source: chatGPT -----------------------#
 <#
 Week 1: Getting Started with dbatools & Basic SQL Server Management
 
